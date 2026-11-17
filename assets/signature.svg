@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="t d">
+<title id="t">INK3 Signature Ballpen</title><desc id="d">Illustrated brushed brass executive ballpen on a charcoal slate background.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#333e3b"/><stop offset="1" stop-color="#172625"/></linearGradient>
+<linearGradient id="brass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff1c8"/><stop offset=".16" stop-color="#d0ad78"/><stop offset=".44" stop-color="#ac8054"/><stop offset=".72" stop-color="#e9cb98"/><stop offset="1" stop-color="#9b754d"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff4d5"/><stop offset=".5" stop-color="#b28b59"/><stop offset="1" stop-color="#f3d7a4"/></linearGradient>
+<filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="900" height="720" fill="url(#bg)"/><circle cx="781" cy="108" r="230" fill="#bcab89" opacity=".06"/><path d="M-50 70 L940 610" stroke="#c3b999" stroke-width="1" opacity=".17"/>
+<g transform="translate(93 359) rotate(-23 365 0)">
+<ellipse cx="375" cy="75" rx="322" ry="30" fill="#050d0b" opacity=".65" filter="url(#shadow)"/>
+<path d="M72 -10 L12 0 L72 10 Z" fill="url(#metal)"/><path d="M12 0 L-8 0" stroke="#e8ce98" stroke-width="3" stroke-linecap="round"/>
+<path d="M69 -16 Q62 0 69 16 L120 23 L120 -23 Z" fill="url(#metal)"/>
+<rect x="116" y="-23" width="420" height="46" rx="13" fill="url(#brass)"/>
+<path d="M129 -14 L510 -14" stroke="#fff2cd" stroke-width="4" opacity=".48"/>
+<rect x="520" y="-23" width="7" height="46" fill="#634e34" opacity=".7"/>
+<rect x="527" y="-23" width="142" height="46" rx="11" fill="url(#brass)"/>
+<path d="M554 -23 L641 -23 Q654 -23 654 -13 L645 -13 L645 -16 L560 -16 L560 -3" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round"/>
+<rect x="665" y="-9" width="38" height="18" rx="7" fill="#bc9862"/>
+<text x="279" y="5" fill="#573e28" font-family="Georgia,serif" letter-spacing="6" font-size="18">INK3</text>
+</g><text x="58" y="644" fill="#cbb996" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">SIGNATURE / 03</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 980" role="img" aria-labelledby="t d">
+<title id="t">Three pens by INK3</title><desc id="d">An artistic stationery still life with three pens over an open notebook and a pale stone-colored background.</desc>
+<defs>
+<linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffef6"/><stop offset="1" stop-color="#eae7d9"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fff1c4"/><stop offset=".35" stop-color="#bc9865"/><stop offset=".7" stop-color="#ebc990"/><stop offset="1" stop-color="#8c6c48"/></linearGradient>
+<linearGradient id="green" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#779c8b"/><stop offset=".5" stop-color="#1c473d"/><stop offset="1" stop-color="#6f8d83"/></linearGradient>
+<linearGradient id="navy" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#647573"/><stop offset=".5" stop-color="#203839"/><stop offset="1" stop-color="#647b77"/></linearGradient>
+<filter id="sh" x="-40%" y="-40%" width="180%" height="190%"><feGaussianBlur stdDeviation="19"/></filter>
+</defs>
+<rect width="1040" height="980" fill="#e5dfce"/>
+<circle cx="902" cy="163" r="245" fill="#f0e8d7" opacity=".8"/><path d="M0 800 Q360 620 1040 900 L1040 980 H0" fill="#d8d3c4" opacity=".5"/>
+<g transform="rotate(-13 525 488)">
+<rect x="214" y="156" width="710" height="670" rx="5" fill="#766e57" opacity=".2" filter="url(#sh)"/>
+<rect x="193" y="129" width="720" height="668" rx="5" fill="url(#paper)"/>
+<path d="M224 225 H878 M224 270 H878 M224 315 H878 M224 360 H878 M224 405 H878 M224 450 H878 M224 495 H878 M224 540 H878 M224 585 H878 M224 630 H878 M224 675 H878 M224 720 H878" stroke="#bfc6ba" stroke-width="2" opacity=".45"/>
+<path d="M299 151 V778" stroke="#dca69d" stroke-width="2" opacity=".6"/>
+<text x="360" y="235" font-family="Georgia,serif" font-size="53" fill="#9b9a86" opacity=".45" font-style="italic">the art of beginning.</text>
+</g>
+<g transform="translate(50 580) rotate(-50 300 0)">
+<ellipse cx="410" cy="40" rx="330" ry="27" fill="#2b352f" opacity=".25" filter="url(#sh)"/>
+<path d="M52 -11 L0 0 L52 11 Z" fill="url(#gold)"/><rect x="50" y="-22" width="505" height="44" rx="13" fill="url(#gold)"/><path d="M82 -14 H521" stroke="#fff7d6" stroke-width="5" opacity=".45"/><rect x="553" y="-22" width="7" height="44" fill="#645039"/><rect x="560" y="-22" width="115" height="44" rx="12" fill="url(#gold)"/><path d="M593 -22 H649 Q662 -22 660 -11" fill="none" stroke="#f7e5be" stroke-width="7" stroke-linecap="round"/><text x="286" y="6" fill="#72563b" font-family="Georgia,serif" font-size="21" letter-spacing="4">INK3</text>
+</g>
+<g transform="translate(125 475) rotate(-26 300 0)">
+<ellipse cx="418" cy="41" rx="330" ry="22" fill="#28332f" opacity=".24" filter="url(#sh)"/>
+<path d="M55 -10 L0 0 L55 10 Z" fill="#c5d2c7"/><rect x="55" y="-22" width="113" height="44" rx="10" fill="#142923"/><rect x="160" y="-23" width="466" height="46" rx="14" fill="url(#green)"/><rect x="621" y="-23" width="51" height="46" rx="10" fill="#a7baa9"/><path d="M635 -22 H683 Q694 -22 692 -11" fill="none" stroke="#e0e9d9" stroke-width="7" stroke-linecap="round"/><text x="380" y="6" fill="#e0ebdf" font-family="Georgia,serif" font-size="19" letter-spacing="5">INK3</text>
+</g>
+<g transform="translate(215 360) rotate(-10 300 0)">
+<ellipse cx="396" cy="40" rx="324" ry="24" fill="#1c2525" opacity=".25" filter="url(#sh)"/>
+<path d="M55 -10 L2 0 L55 10 Z" fill="#bac8c4"/><rect x="55" y="-22" width="560" height="44" rx="12" fill="url(#navy)"/><rect x="615" y="-22" width="65" height="44" rx="10" fill="#20373a"/><path d="M624 -22 H671 Q683 -22 681 -11" fill="none" stroke="#cad7ce" stroke-width="7" stroke-linecap="round"/><text x="286" y="6" fill="#e3eee8" font-family="Georgia,serif" font-size="19" letter-spacing="5">INK3</text>
+</g>
+<circle cx="895" cy="827" r="46" fill="#c87957"/><text x="895" y="839" text-anchor="middle" fill="#fff9ed" font-family="Georgia,serif" font-size="37" font-weight="bold">3</text>
+</svg>

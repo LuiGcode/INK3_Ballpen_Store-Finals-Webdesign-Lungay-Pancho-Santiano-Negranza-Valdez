@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="t d">
+<title id="t">INK3 SmoothWrite Ballpen</title><desc id="d">Illustrated forest-green gel ballpen with black grip on a muted apricot background.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f2e8d9"/><stop offset="1" stop-color="#eacdbb"/></linearGradient>
+<linearGradient id="barrel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#7a9c8b"/><stop offset=".24" stop-color="#274b42"/><stop offset=".7" stop-color="#143e36"/><stop offset="1" stop-color="#64887a"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#faf6e9"/><stop offset=".4" stop-color="#96a3a0"/><stop offset=".65" stop-color="#f1eadd"/><stop offset="1" stop-color="#8b9794"/></linearGradient>
+<linearGradient id="grip" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#394642"/><stop offset=".5" stop-color="#101f20"/><stop offset="1" stop-color="#3d4943"/></linearGradient>
+<filter id="shadow"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="900" height="720" fill="url(#bg)"/><circle cx="126" cy="84" r="177" fill="#ffffff" opacity=".2"/><path d="M0 515 Q430 300 900 480" fill="none" stroke="#fff" stroke-width="2" opacity=".23"/>
+<g transform="translate(95 360) rotate(-23 365 0)">
+<ellipse cx="375" cy="79" rx="305" ry="30" fill="#694b3a" opacity=".19" filter="url(#shadow)"/>
+<path d="M65 -11 L7 0 L65 11 Z" fill="url(#metal)"/><path d="M7 0 L-11 0" stroke="#243532" stroke-width="4" stroke-linecap="round"/>
+<rect x="65" y="-23" width="124" height="46" rx="11" fill="url(#grip)"/>
+<g stroke="#91a79b" stroke-width="1" opacity=".32"><path d="M91 -20 V20 M102 -20 V20 M113 -20 V20 M124 -20 V20 M135 -20 V20 M146 -20 V20 M157 -20 V20 M168 -20 V20"/></g>
+<rect x="180" y="-25" width="454" height="50" rx="19" fill="url(#barrel)"/>
+<rect x="200" y="-19" width="398" height="6" rx="3" fill="#d5f3df" opacity=".3"/>
+<rect x="610" y="-25" width="50" height="50" rx="8" fill="url(#metal)"/>
+<rect x="653" y="-25" width="40" height="50" rx="12" fill="#1a3b36"/>
+<path d="M621 -24 L685 -24 Q695 -24 694 -12 L684 -12 L683 -17 L632 -17 L632 4" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round"/>
+<rect x="691" y="-10" width="27" height="20" rx="9" fill="#31594f"/>
+<text x="360" y="6" fill="#e0ede0" font-family="Georgia,serif" letter-spacing="6" font-size="18">INK3</text>
+</g><text x="58" y="644" fill="#865b49" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">SMOOTHWRITE / 02</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-labelledby="t d">
+<title id="t">INK3 Everyday Ballpen</title><desc id="d">Illustrated classic black ballpoint pen on a pale blue-gray surface.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e8edea"/><stop offset="1" stop-color="#d8e3e1"/></linearGradient>
+<linearGradient id="barrel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3b4c4b"/><stop offset="0.25" stop-color="#142b2e"/><stop offset="0.7" stop-color="#102428"/><stop offset="1" stop-color="#556c68"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4f5ef"/><stop offset=".32" stop-color="#82918f"/><stop offset=".58" stop-color="#c8d0cc"/><stop offset="1" stop-color="#7f918d"/></linearGradient>
+<filter id="shadow" x="-30%" y="-200%" width="170%" height="500%"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+<rect width="900" height="720" fill="url(#bg)"/><circle cx="733" cy="118" r="230" fill="#f5f5eb" opacity=".25"/><path d="M-20 675 L925 110" stroke="#c5d3cd" stroke-width="2" opacity=".4"/>
+<g transform="translate(95 360) rotate(-23 365 0)">
+<ellipse cx="380" cy="75" rx="305" ry="28" fill="#52645f" opacity=".18" filter="url(#shadow)"/>
+<path d="M64 -13 L17 0 L64 13 Z" fill="url(#metal)"/><path d="M17 0 L-3 0" stroke="#1b3034" stroke-width="4" stroke-linecap="round"/>
+<path d="M62 -17 Q53 0 62 17 L133 22 L133 -22 Z" fill="url(#metal)"/>
+<rect x="121" y="-24" width="480" height="48" rx="20" fill="url(#barrel)"/>
+<rect x="156" y="-18" width="390" height="7" rx="3" fill="#e5eee7" opacity=".28"/>
+<rect x="574" y="-26" width="85" height="52" rx="9" fill="#20393c"/>
+<rect x="585" y="-24" width="9" height="48" fill="url(#metal)"/>
+<rect x="653" y="-18" width="33" height="36" rx="10" fill="#243a3c"/>
+<path d="M584 -23 L643 -23 Q655 -23 654 -11 L649 -11 L649 -16 L590 -16 L590 3" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round"/>
+<rect x="687" y="-8" width="29" height="16" rx="6" fill="#172d31"/>
+<text x="315" y="5" fill="#dbe4db" font-family="Georgia,serif" letter-spacing="7" font-size="18">INK3</text>
+</g><text x="58" y="644" fill="#516966" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">EVERYDAY / 01</text>
+</svg>
